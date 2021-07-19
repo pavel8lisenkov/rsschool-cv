@@ -1,0 +1,23 @@
+.wrapper{
+    padding: 10px 50px;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(226, 226, 226);
+  }
+
+.cosmo {
+    float: right;
+    margin-right: 200px;
+    margin-top: 180px;
+}
+
+footer {
+    max-width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+    background: #ccc;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
